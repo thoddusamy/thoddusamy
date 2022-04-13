@@ -1,4 +1,3 @@
-https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
 <p  align="center" ><img width="40%" height="auto" src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/coding-boy.gif" height="175px"/></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Thoddusamy</h1>
