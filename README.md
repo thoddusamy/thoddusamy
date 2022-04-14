@@ -6,7 +6,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=thoddusamy">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/thoddusamy?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/thoddusamy?tab=followers"><img src="https://img.shields.io/github/followers/thoddusamy?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <h3 align="left">About me :</h3>
 
