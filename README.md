@@ -3,7 +3,7 @@
 <br>
 <br>
 <img align="right" alt="Coding" width="470" height="auto" src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/coding-boy.gif">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/thoddusamy/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=thoddusamy">
 </a>
 <a href="https://github.com/thoddusamy?tab=followers"><img src="https://img.shields.io/github/followers/thoddusamy?label=Followers&style=social" alt="GitHub Badge"></a>
