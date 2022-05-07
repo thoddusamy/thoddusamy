@@ -2,7 +2,8 @@
 <h3 align="center">I'm a passionate Full Stack Developer from India</h3>
 <br>
 <br>
-<img align="right" alt="Coding" width="470" height="auto" src="https://miro.medium.com/max/1400/1*gaaL4OWq2-ek1xu0tL7zHQ.gif">
+<img align="right" alt="Coding" width="470" height="auto" src="https://i0.wp.com/www.zealsparrow.com/wp-content/uploads/2022/03/output-onlinegiftools.gif">
+<!-- <img align="right" alt="Coding" width="470" height="auto" src="https://miro.medium.com/max/1400/1*gaaL4OWq2-ek1xu0tL7zHQ.gif"> -->
 <!-- <img align="right" alt="Coding" width="470" height="auto" src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/coding-boy.gif"> -->
 <a href="https://github.com/thoddusamy/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=thoddusamy">
