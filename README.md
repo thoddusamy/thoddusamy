@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from India</h3>
 <br>
 <br>
-<img align="right" alt="Coding" width="520" height="auto" src="https://miro.medium.com/max/1400/1*gaaL4OWq2-ek1xu0tL7zHQ.gif">
+<img align="right" alt="Coding" width="500" height="auto" src="https://miro.medium.com/max/1400/1*gaaL4OWq2-ek1xu0tL7zHQ.gif">
 <a href="https://github.com/thoddusamy/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=thoddusamy">
 </a>
