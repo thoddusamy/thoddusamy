@@ -3,6 +3,7 @@
 <br>
 <br>
 <img align="right" alt="Coding" width="470" height="auto" src="https://miro.medium.com/max/1400/1*gaaL4OWq2-ek1xu0tL7zHQ.gif">
+<!-- <img align="right" alt="Coding" width="470" height="auto" src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/coding-boy.gif"> -->
 <a href="https://github.com/thoddusamy/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=thoddusamy">
 </a>
