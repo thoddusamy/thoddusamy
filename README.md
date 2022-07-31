@@ -48,6 +48,8 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 <!-- POSTMAN LOGO -->
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="mysql" width="40" height="40"/> </a>
+<!-- XD LOGO -->
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/adobe-xd--v1.png" alt="mysql" width="40" height="40"/> </a>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
