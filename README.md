@@ -35,7 +35,7 @@
 <!-- AWS LOGO -->
 <!-- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/amazon-web-services.png" alt="aws" width="40" height="40"/> </a> -->
 <!-- MONGODB LOGO -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/mongodb.png" alt="mongodb" width="40" height="40"/> </a>
 <!-- MYSQL LOGO -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <!-- NODE_JS LOGO -->
