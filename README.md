@@ -23,33 +23,33 @@
 
 <h3 align="left">Languages and Tools :</h3>
 <!-- HTML LOGO -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/html-5--v1.png" alt="html5" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" title="HTML5"> <img src="https://img.icons8.com/color/344/html-5--v1.png" alt="html5" width="40" height="40"/> </a>
 <!-- CSS LOGO -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/css3.png" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" title="CSS3"> <img src="https://img.icons8.com/color/344/css3.png" alt="css3" width="40" height="40"/> </a>
 <!-- BOOTSTRAP LOGO -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="BOOTSTRAP"> <img src="https://img.icons8.com/color/344/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
 <!-- JS LOGO -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="javascript" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JAVASCRIPT"> <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="javascript" width="40" height="40"/> </a>
 <!-- REACT LOGO -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/plasticine/344/react.png" alt="react" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="REACT"> <img src="https://img.icons8.com/plasticine/344/react.png" alt="react" width="40" height="40"/> </a>
 <!-- AWS LOGO -->
-<!-- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/amazon-web-services.png" alt="aws" width="40" height="40"/> </a> -->
+<!-- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="AWS"> <img src="https://img.icons8.com/color/344/amazon-web-services.png" alt="aws" width="40" height="40"/> </a> -->
 <!-- MONGODB LOGO -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/mongodb.png" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MONGODB"> <img src="https://img.icons8.com/color/344/mongodb.png" alt="mongodb" width="40" height="40"/> </a>
 <!-- MYSQL LOGO -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MYSQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <!-- NODE_JS LOGO -->
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/344/node-js.png" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer" title="NODE_JS"> <img src="https://img.icons8.com/fluency/344/node-js.png" alt="nodejs" width="40" height="40"/> </a>
 <!-- EXPRESS_JS LOGO -->
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="express" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer" title="EXPRESS_JS"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="express" width="40" height="40"/> </a>
 <!-- GIT LOGO -->
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/git.png" alt="git" width="40" height="40"/> </a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer" title="GIT"> <img src="https://img.icons8.com/color/344/git.png" alt="git" width="40" height="40"/> </a>
 <!-- PHOTOSHOP LOGO -->
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" title="PHOTOSHOP"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 <!-- POSTMAN LOGO -->
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="POSTMAN"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="mysql" width="40" height="40"/> </a>
 <!-- XD LOGO -->
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/adobe-xd--v1.png" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" title="ADOBE_XD"> <img src="https://img.icons8.com/color/344/adobe-xd--v1.png" alt="mysql" width="40" height="40"/> </a>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
