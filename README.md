@@ -12,7 +12,7 @@
 
 <h3 align="left">About me :</h3>
 
-- 💻 Full stack Developer
+- 💻 Full Stack Developer
 
 - 📫 How to reach me **thoddusamyg@gmail.com**
 
