@@ -12,9 +12,7 @@
 
 <h3 align="left">About me :</h3>
 
-- 🌱 I’m currently learning **Full Stack Development from GUVI**
-
-- 💬 Ask me about **MERN Developer**
+- 💻 Full stack Developer
 
 - 📫 How to reach me **thoddusamyg@gmail.com**
 
