@@ -50,9 +50,9 @@
 <!-- XD LOGO -->
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" title="ADOBE_XD"> <img src="https://img.icons8.com/color/344/adobe-xd--v1.png" alt="adobe_xd" width="40" height="40"/> </a>
 <!-- FLUTTER LOGO -->
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer" title="FLUTTER"> <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer" title="FLUTTER"> <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" alt="flutter" width="35" height="35"/> </a>
 <!-- DART LOGO -->
-<a href="" target="_blank" rel="noreferrer" title="DART"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" alt="dart" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer" title="DART"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" alt="dart" width="35" height="35"/> </a>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
