@@ -30,6 +30,7 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="BOOTSTRAP"> <img src="https://img.icons8.com/color/344/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
 <!-- JS LOGO -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JAVASCRIPT"> <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="javascript" width="40" height="40"/> </a>
+<br/>
 <!-- REACT LOGO -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="REACT"> <img src="https://img.icons8.com/plasticine/344/react.png" alt="react" width="40" height="40"/> </a>
 <!-- AWS LOGO -->
