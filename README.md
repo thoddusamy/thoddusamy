@@ -13,7 +13,9 @@
 <h3 align="left">About me :</h3>
 
 - 💻 Full Stack Developer
+
 - 📫 How to reach me **thoddusamyg@gmail.com**
+
 - ⚡ Fun fact **I play video games**
 
 
