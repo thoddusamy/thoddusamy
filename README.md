@@ -32,7 +32,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JAVASCRIPT"> <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="javascript" width="40" height="40"/> </a>
 <!-- REACT LOGO -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="REACT"> <img src="https://img.icons8.com/plasticine/344/react.png" alt="react" width="40" height="40"/> </a>
-<br/>
 <!-- AWS LOGO -->
 <!-- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="AWS"> <img src="https://img.icons8.com/color/344/amazon-web-services.png" alt="aws" width="40" height="40"/> </a> -->
 <!-- MONGODB LOGO -->
@@ -56,7 +55,6 @@
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="POSTMAN"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman" width="40" height="40"/> </a>
 <!-- XD LOGO -->
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" title="ADOBE_XD"> <img src="https://img.icons8.com/color/344/adobe-xd--v1.png" alt="adobe_xd" width="40" height="40"/> </a>
-<br/>
 <!-- FLUTTER LOGO -->
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer" title="FLUTTER"> <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" alt="flutter" width="35" height="35"/> </a>
 <!-- DART LOGO -->
