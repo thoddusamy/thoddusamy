@@ -54,8 +54,6 @@
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer" title="FLUTTER"> <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" alt="flutter" width="35" height="35"/> </a>
 <!-- DART LOGO -->
 <a href="https://dart.dev/" target="_blank" rel="noreferrer" title="DART"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" alt="dart" width="35" height="35"/> </a>
-<!-- BLOC LOGO -->
-<a href="https://bloclibrary.dev/" target="_blank" rel="noreferrer" title="BLOC"> <img src="https://bloclibrary.dev/_astro/light-bloc-logo.Cf4Oyfak.svg" alt="bloc" width="60" height="60"/> </a>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
