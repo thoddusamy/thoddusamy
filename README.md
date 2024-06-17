@@ -54,6 +54,8 @@
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer" title="FLUTTER"> <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" alt="flutter" width="35" height="35"/> </a>
 <!-- DART LOGO -->
 <a href="https://dart.dev/" target="_blank" rel="noreferrer" title="DART"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" alt="dart" width="35" height="35"/> </a>
+<!-- POSTGRESQL LOGO -->
+<a href="https://dart.dev/" target="_blank" rel="noreferrer" title="DART"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="dart" width="35" height="35"/> </a>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
