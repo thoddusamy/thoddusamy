@@ -55,7 +55,7 @@
 <!-- DART LOGO -->
 <a href="https://dart.dev/" target="_blank" rel="noreferrer" title="DART"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" alt="dart" width="35" height="35"/> </a>
 <!-- BLOC LOGO -->
-<a href="https://bloclibrary.dev/" target="_blank" rel="noreferrer" title="BLOC"> <img src="https://bloclibrary.dev/_astro/bloc.DJLDGT9c_1KXLNj.svg" alt="bloc" width="55" height="55"/> </a>
+<a href="https://bloclibrary.dev/" target="_blank" rel="noreferrer" title="BLOC"> <img src="https://plugins.jetbrains.com/files/12129/261752/icon/pluginIcon.png" alt="bloc" width="35" height="35"/> </a>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
