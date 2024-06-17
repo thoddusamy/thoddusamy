@@ -46,7 +46,7 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer" title="EXPRESS_JS"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="express" width="40" height="40"/> </a>
 <br/>
 <!-- NESTJS LOGO -->
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="NEST JS"> <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" alt="nestjs" width="35" height="35"/> </a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer" title="NEST JS"> <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" alt="nestjs" width="35" height="35"/> </a>
 <!-- GIT LOGO -->
 <a href="https://git-scm.com" target="_blank" rel="noreferrer" title="GIT"> <img src="https://img.icons8.com/color/344/git.png" alt="git" width="40" height="40"/> </a>
 <!-- PHOTOSHOP LOGO -->
