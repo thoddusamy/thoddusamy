@@ -50,7 +50,7 @@
 <!-- XD LOGO -->
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" title="ADOBE_XD"> <img src="https://img.icons8.com/color/344/adobe-xd--v1.png" alt="adobe_xd" width="40" height="40"/> </a>
 <!-- FLUTTER LOGO -->
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer" title="FLUTTER"> <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer" title="FLUTTER"> <img src="https://docs.flutter.dev/assets/images/jAoUexOogr-560.svg" alt="flutter" width="60" height="60"/> </a>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
