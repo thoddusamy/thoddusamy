@@ -24,6 +24,7 @@
 <h3 align="left">Languages and Tools :</h3>
 <!-- HTML LOGO -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" title="HTML5"> <img src="https://img.icons8.com/color/344/html-5--v1.png" alt="html5" width="40" height="40"/> </a>
+&nbsp;&nbsp;
 <!-- CSS LOGO -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" title="CSS3"> <img src="https://img.icons8.com/color/344/css3.png" alt="css3" width="40" height="40"/> </a>
 <!-- BOOTSTRAP LOGO -->
