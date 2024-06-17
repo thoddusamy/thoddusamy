@@ -45,7 +45,7 @@
 <!-- GIT LOGO -->
 <a href="https://git-scm.com" target="_blank" rel="noreferrer" title="GIT"> <img src="https://img.icons8.com/color/344/git.png" alt="git" width="40" height="40"/> </a>
 <!-- PHOTOSHOP LOGO -->
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" title="PHOTOSHOP"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" title="PHOTOSHOP"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/788px-Adobe_Photoshop_Express_logo.svg.png" alt="photoshop" width="40" height="40"/>
 <!-- POSTMAN LOGO -->
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="POSTMAN"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman" width="40" height="40"/> </a>
 <!-- XD LOGO -->
