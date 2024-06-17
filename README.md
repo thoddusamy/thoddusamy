@@ -38,10 +38,14 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MONGODB"> <img src="https://img.icons8.com/color/344/mongodb.png" alt="mongodb" width="40" height="40"/> </a>
 <!-- MYSQL LOGO -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MYSQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<!-- POSTGRESQL LOGO -->
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="POSTGRESQL"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="postgresql" width="35" height="35"/> </a>
 <!-- NODE_JS LOGO -->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="NODE_JS"> <img src="https://img.icons8.com/fluency/344/node-js.png" alt="nodejs" width="40" height="40"/> </a>
 <!-- EXPRESS_JS LOGO -->
 <a href="https://expressjs.com" target="_blank" rel="noreferrer" title="EXPRESS_JS"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="express" width="40" height="40"/> </a>
+<!-- NESTJS LOGO -->
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="NEST JS"> <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" alt="nestjs" width="35" height="35"/> </a>
 <!-- GIT LOGO -->
 <a href="https://git-scm.com" target="_blank" rel="noreferrer" title="GIT"> <img src="https://img.icons8.com/color/344/git.png" alt="git" width="40" height="40"/> </a>
 <!-- PHOTOSHOP LOGO -->
@@ -54,8 +58,6 @@
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer" title="FLUTTER"> <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" alt="flutter" width="35" height="35"/> </a>
 <!-- DART LOGO -->
 <a href="https://dart.dev/" target="_blank" rel="noreferrer" title="DART"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" alt="dart" width="35" height="35"/> </a>
-<!-- POSTGRESQL LOGO -->
-<a href="https://dart.dev/" target="_blank" rel="noreferrer" title="DART"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="dart" width="35" height="35"/> </a>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
