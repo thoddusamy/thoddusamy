@@ -16,6 +16,7 @@
 - 🔭 I'm currently working on **MERN** Projects
 - 🌱 I’m currently learning **Flutter**
 - 🧐 I'm currently exploring new technologies
+- 👯 I'm looking to collaborate on projects
 - 📫 How to reach me **thoddusamyg@gmail.com**
 - ⚡ Fun fact **I Love Video Games**
 
@@ -54,7 +55,7 @@
 <!-- DART LOGO -->
 <a href="https://dart.dev/" target="_blank" rel="noreferrer" title="DART"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" alt="dart" width="35" height="35"/> </a>
 <!-- BLOC LOGO -->
-<a href="https://bloclibrary.dev/" target="_blank" rel="noreferrer" title="BLOC"> <img src="https://miro.medium.com/v2/resize:fit:1128/1*N-tmEuiC6EiiYXE4KBCIng.png" alt="bloc" width="35" height="35"/> </a>
+<a href="https://bloclibrary.dev/" target="_blank" rel="noreferrer" title="BLOC"> <img src="https://plugins.jetbrains.com/files/12129/536052/icon/pluginIcon.png" alt="bloc" width="35" height="35"/> </a>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
