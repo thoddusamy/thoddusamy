@@ -13,8 +13,11 @@
 <h3 align="left">About me :</h3>
 
 - 💻 Full Stack Developer
+- 🔭 I'm currently working on **MERN** Projects
+- 🌱 I’m currently learning **Flutter**
+- 🧐 I'm currently exploring new technologies
 - 📫 How to reach me **thoddusamyg@gmail.com**
-- ⚡ Fun fact **I play video games**
+- ⚡ Fun fact **I Love Video Games**
 
 
 <h3 align="left">Languages and Tools :</h3>
@@ -43,9 +46,11 @@
 <!-- PHOTOSHOP LOGO -->
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" title="PHOTOSHOP"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 <!-- POSTMAN LOGO -->
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="POSTMAN"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="POSTMAN"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman" width="40" height="40"/> </a>
 <!-- XD LOGO -->
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" title="ADOBE_XD"> <img src="https://img.icons8.com/color/344/adobe-xd--v1.png" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" title="ADOBE_XD"> <img src="https://img.icons8.com/color/344/adobe-xd--v1.png" alt="adobe_xd" width="40" height="40"/> </a>
+<!-- FLUTTER LOGO -->
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer" title="FLUTTER"> <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" alt="flutter" width="40" height="40"/> </a>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
