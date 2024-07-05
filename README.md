@@ -79,4 +79,4 @@
   <a href="https://github.com/thoddusamy/github-readme-stats"><img alt="Thoddusamy Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thoddusamy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br>
   <br>
-  <a href="https://github.com/thoddusamy/github-readme-activity-graph"><img alt="Thoddusamy Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thoddusamy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!--   <a href="https://github.com/thoddusamy/github-readme-activity-graph"><img alt="Thoddusamy Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thoddusamy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
