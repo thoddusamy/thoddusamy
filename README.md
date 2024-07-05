@@ -12,7 +12,7 @@
 
 <h3 align="left">About me :</h3>
 
-- 💻 Full Stack Developer
+- 💻 Web and 📱 Mobile Full Stack Developer
 - 🔭 I'm currently working on **MERN** Projects
 - 🌱 I’m currently learning **Flutter**
 - 🧐 I'm currently exploring new technologies
