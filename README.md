@@ -118,7 +118,7 @@ I enjoy understanding not just how to build software, but **how systems work int
 
 <img src="https://github-readme-stats.vercel.app/api?username=thoddusamy&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thoddusamy&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thoddusamy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
 
 <img src="https://streak-stats.demolab.com?user=thoddusamy&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
